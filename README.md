@@ -6,7 +6,7 @@ RegLoop AI is a closed-loop regulatory execution prototype for the challenge wor
 
 ## What It Does
 
-The app helps a compliance team move from a new regulation to structured obligations, gaps, reviewable policy recommendations, human approvals, and exportable audit evidence.
+The app helps a compliance team move from a new regulation to structured obligations, gaps, reviewable policy recommendations, human approvals, and exportable audit evidence...
 
 The verified workflow supports:
 
