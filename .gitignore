@@ -1,0 +1,4 @@
+gemini.txt
+.env
+.env.local
+.env.*.local 
