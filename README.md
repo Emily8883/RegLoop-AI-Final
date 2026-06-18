@@ -263,6 +263,7 @@ Do not include:
 - reset backups
 - machine-specific caches
 
+\
 ## Notes
 
 - The repository contains verified sample data and a live demo path.
