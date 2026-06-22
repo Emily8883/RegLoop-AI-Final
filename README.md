@@ -1,7 +1,7 @@
 # RegLoop AI
 
 RegLoop AI is a closed-loop regulatory execution prototype for the challenge workflow:
-
+'updated by elena'
 `Regulation -> Obligation Extraction -> Gap Analysis -> Policy Pull Request -> Human Review -> Audit Trail -> Export`
 
 ## What It Does
